@@ -1,0 +1,71 @@
+station_or_node_code,name,category,latitude,longitude
+DIC,Dahisar Railway Station,RAILWAY,19.2501,72.8593
+BVI,Borivali Railway Station,RAILWAY,19.229,72.8569
+KND,Kandivali Railway Station,RAILWAY,19.2045,72.8522
+MDD,Malad Railway Station,RAILWAY,19.1868,72.8488
+GMN,Goregaon Railway Station,RAILWAY,19.1645,72.8493
+RMAR,Ram Mandir Railway Station,RAILWAY,19.1517,72.8475
+JOS,Jogeshwari Railway Station,RAILWAY,19.1359,72.849
+ADH,Andheri Railway Station,RAILWAY,19.1197,72.8464
+VLP,Vile Parle Railway Station,RAILWAY,19.0999,72.8438
+STC,Santa Cruz Railway Station,RAILWAY,19.0818,72.8407
+BA,Bandra Railway Station,RAILWAY,19.0544,72.8406
+M2A_01,Dahisar East Metro Station,METRO_2A,19.2555,72.8624
+M2A_02,Anand Nagar Metro Station,METRO_2A,19.2505,72.854
+M2A_03,Rushi Sankul Metro Station,METRO_2A,19.2458,72.8492
+M2A_04,I.C. Colony Metro Station,METRO_2A,19.2408,72.8471
+M2A_05,Eksar Metro Station,METRO_2A,19.2345,72.8458
+M2A_08,Borivali West Metro Station,METRO_2A,19.2272,72.8455
+M2A_10,Kandivali West Metro Station,METRO_2A,19.2085,72.8423
+M2A_11,Dahanukarwadi Metro Station,METRO_2A,19.2025,72.8398
+M2A_12,Valnai Metro Station,METRO_2A,19.1942,72.8385
+M2A_13,Malad West Metro Station,METRO_2A,19.1865,72.838
+M2A_14,Lower Malad Metro Station,METRO_2A,19.1762,72.8368
+M2A_15,Pahadi Goregaon Metro Station,METRO_2A,19.1685,72.8365
+M2A_16,Goregaon West Metro Station,METRO_2A,19.1601,72.8362
+M2A_17,Oshiwara Metro Station,METRO_2A,19.151,72.8359
+M2A_18,Lower Oshiwara Metro Station,METRO_2A,19.1415,72.8335
+M2A_19,Andheri West (D.N. Nagar) Metro Station,METRO_2A,19.1308,72.8322
+M7_01,Dahisar East Metro Station,METRO_7,19.2555,72.8624
+M7_02,Ovaripada Metro Station,METRO_7,19.2435,72.864
+M7_03,National Park (Borivali E) Metro Station,METRO_7,19.2301,72.8631
+M7_04,Devipada Metro Station,METRO_7,19.2205,72.8629
+M7_05,Magathane Metro Station,METRO_7,19.2132,72.8633
+M7_06,Mahindra & Mahindra Metro Station,METRO_7,19.2045,72.8615
+M7_07,Bandongri Metro Station,METRO_7,19.1972,72.8608
+M7_08,Pushpa Park Metro Station,METRO_7,19.1895,72.8595
+M7_09,Pathanwadi Metro Station,METRO_7,19.1795,72.8585
+M7_10,Dindoshi Metro Station,METRO_7,19.1725,72.8578
+M7_11,Aarey Metro Station,METRO_7,19.1628,72.8572
+M7_12,Goregaon East Metro Station,METRO_7,19.1525,72.8568
+M7_13,JVLR Junction Metro Station,METRO_7,19.1402,72.856
+M7_14,Shankarwadi Metro Station,METRO_7,19.1285,72.8552
+M7_15,Gundavali (Andheri E) Metro Station,METRO_7,19.1172,72.8548
+M1_01,Versova Metro Station,METRO_1,19.1315,72.8172
+M1_02,D.N. Nagar Metro Station,METRO_1,19.1308,72.8322
+M1_03,Azad Nagar Metro Station,METRO_1,19.1288,72.8378
+M1_04,Andheri Metro Station,METRO_1,19.1205,72.8468
+M1_05,Western Express Highway Metro Station,METRO_1,19.1165,72.8555
+M1_06,Chakala Metro Station,METRO_1,19.1118,72.8635
+M1_07,Airport Road Metro Station,METRO_1,19.1105,72.8732
+M1_08,Marol Naka Metro Station,METRO_1,19.1098,72.8835
+RD_ASHOKVAN,Ashokvan (Borivali East),ROAD_ORIGIN,19.2372,72.8695
+RD_WEH_BVI,Borivali National Park WEH Flyover,ROAD_JUNCTION,19.2295,72.8625
+RD_WEH_KND,Kandivali Samata Nagar WEH,ROAD_JUNCTION,19.2052,72.8618
+RD_WEH_MLD,Pathanwadi Flyover WEH (Malad),ROAD_BOTTLENECK,19.1802,72.8582
+RD_WEH_OBEROI,Oberoi Mall Flyover (Goregaon E),ROAD_JUNCTION,19.1665,72.8575
+RD_WEH_JVLR,JVLR Junction WEH (Jogeshwari E),ROAD_BOTTLENECK,19.1415,72.8562
+RD_WEH_ADH,Andheri WEH Flyover,ROAD_JUNCTION,19.1185,72.8545
+RD_LINK_MITH,Mithchowki Junction (Kandivali W Link Rd),ROAD_BOTTLENECK,19.2015,72.8375
+RD_LINK_INORB,Inorbit Mall Junction (Malad W Link Rd),ROAD_JUNCTION,19.1782,72.837
+RD_LINK_INF,Infinity Mall Junction (Andheri W),ROAD_JUNCTION,19.1408,72.833
+RD_DN_NAGAR_JNC,D.N. Nagar Junction (Andheri W),ROAD_JUNCTION,19.1305,72.832
+RD_SUB_MALAD,Malad Subway,FLOOD_SUBWAY,19.1862,72.8462
+RD_SUB_ANDHERI,Andheri Subway,FLOOD_SUBWAY,19.1215,72.8445
+RD_SUB_MILAN,Milan Subway (Santacruz),FLOOD_SUBWAY,19.0885,72.842
+RD_DEST_RGIT,Rajiv Gandhi Institute of Technology (RGIT Versova),DESTINATION,19.1342,72.8145
+RD_DEST_NESCO,NESCO IT Park (Goregaon East),DESTINATION,19.1555,72.8542
+RD_DEST_KOKILA,Kokilaben Hospital (Andheri West),DESTINATION,19.1312,72.8252
+RD_DEST_BHAVANS,Bhavan's College (Andheri West),DESTINATION,19.1245,72.8355
+RD_DEST_SEEPZ,SEEPZ / MIDC (Andheri East),DESTINATION,19.1225,72.8795
+RD_DEST_MITHIBAI,Mithibai College (Vile Parle West),DESTINATION,19.1028,72.8372

@@ -1,0 +1,26 @@
+user_id,name,user_type,origin_name,origin_lat,origin_lon,destination_name,destination_lat,destination_lon,usual_departure_time,target_arrival_time,preferred_transport_modes,travel_preferences
+USR_001,Sahil K. (Student Persona),College Student,"Ashokvan, Borivali East",19.2372,72.8695,"Rajiv Gandhi Institute of Technology (RGIT, Versova)",19.1342,72.8145,08:15:00,09:15:00,"Bike,Train,Metro","Punctuality for lectures, Weather-safe, Budget-friendly student pass"
+USR_002,Priya Nair,Software Engineer,"Mahavir Nagar, Kandivali West",19.2105,72.839,"NESCO IT Park, Goregaon East",19.1555,72.8542,08:45:00,09:30:00,"Metro,Car,Train","Air-conditioned comfort, Avoid bumper-to-bumper traffic"
+USR_003,Dr. Rajesh Mehta,Cardiologist (Emergency),"Gorai 2, Borivali West",19.2355,72.832,"Kokilaben Dhirubhai Ambani Hospital, Andheri West",19.1312,72.8252,07:45:00,08:35:00,"Car,Metro","Fastest response time, Guaranteed arrival, Emergency priority"
+USR_004,Rohan Varma,Degree Student,Dahisar East (Anand Nagar),19.255,72.863,"Bhavan's College, Andheri West",19.1245,72.8355,08:10:00,09:10:00,"Train,Metro,Bike","Fast transit, Direct train preferred on non-rainy days"
+USR_005,Ananya Iyer,Management Consultant,"Lokhandwala Complex, Kandivali East",19.204,72.871,"SEEPZ / MIDC, Andheri East",19.1225,72.8795,08:30:00,09:30:00,"Metro,Cab,Bike","Reliable schedule, Metro Line 7 to Gundavali"
+USR_006,Vikram Malhotra,Creative Director,"Yari Road, Versova, Andheri West",19.136,72.811,"NESCO / Film City, Goregaon East",19.1555,72.8542,09:30:00,10:30:00,"Car,Metro,Auto","Comfort, Avoid waterlogged subways"
+USR_007,Sneha Patil,Investment Analyst,"Dindoshi, Malad East",19.174,72.862,Andheri East Financial District,19.117,72.855,08:20:00,09:05:00,"Metro,Two-Wheeler","Punctuality, Minimum walking transfer"
+USR_008,Aditya Deshmukh,Junior College Student,"Charkop Sector 8, Kandivali West",19.215,72.825,"Mithibai College, Vile Parle West",19.1028,72.8372,07:30:00,08:30:00,"Train,Metro,Bus","Low budget, Strict morning lecture attendance"
+USR_009,Meera Joshi,High School Teacher,Borivali West (Shimpoli),19.224,72.842,"St. Xavier's High School, Vile Parle",19.101,72.842,06:45:00,07:35:00,"Train,Bus","Earliest arrival, Rain-safe"
+USR_010,Arjun Singhania,Corporate Lawyer,"Eksar, Borivali West",19.234,72.846,Bandra Kurla Complex (BKC),19.06,72.865,08:00:00,09:15:00,"Car,Train",Direct highway or AC train local
+USR_011,Kavita Rao,Biotech Researcher,"National Park, Borivali East",19.229,72.865,MIDC Andheri East,19.12,72.87,08:40:00,09:30:00,"Metro,Car",Metro Line 7 uninterrupted commute
+USR_012,Farhan Qureshi,Architecture Student,Malad West (Orlem),19.192,72.84,"Balwant Sheth School of Architecture, Vile Parle",19.104,72.836,08:05:00,08:55:00,"Bike,Train",Bike with portfolio case; switch to train during rain
+USR_013,Tanvi Sawant,Fintech Product Manager,"Thakur Village, Kandivali East",19.208,72.872,Mindspace Malad West,19.178,72.836,09:00:00,09:40:00,"Auto,Bike,Metro",Short cross-suburb commute
+USR_014,Siddharth Sen,Data Scientist,"D.N. Nagar, Andheri West",19.1308,72.8322,Mindspace Airoli (via JVLR),19.155,72.99,08:15:00,09:45:00,"Car,Bus",JVLR highway status critical
+USR_015,Pooja Hegde,Fashion Designer,"Lokhandwala, Andheri West",19.141,72.829,Bandra West Linking Road,19.062,72.834,10:30:00,11:15:00,"Car,Auto",SV Road congestion sensitive
+USR_016,Nikhil Agarwal,Chartered Accountant,Kandivali West (Poisar),19.215,72.848,Fort / Churchgate Commercial,18.932,72.828,07:50:00,08:50:00,Train,WR Fast train local only
+USR_017,Ayesha Khan,Medical Intern,Jogeshwari West (Millat Nagar),19.14,72.838,"Cooper Hospital, Juhu / Vile Parle",19.109,72.836,07:15:00,07:45:00,"Auto,Bike","Short hop, avoids submerged underpasses"
+USR_018,Gaurav Bansal,Operations Manager,Goregaon East (Aarey Colony),19.162,72.868,Chakala MIDC,19.112,72.864,08:45:00,09:20:00,"Bike,Metro",WEH Southbound monitoring
+USR_019,Ritu Sharma,Journalist,Versova Beach Road,19.132,72.812,"Times of India Bldg, CST",18.941,72.834,08:30:00,09:40:00,"Metro,Train",Metro Line 1 -> Andheri WR Fast train
+USR_020,Devendra Tawde,Government Clerk (Mantralaya),Dahisar West,19.252,72.852,Churchgate Station,18.932,72.827,08:15:00,09:25:00,Train,WR 1st Class pass holder
+USR_021,Karan Chhabra,Hotelier,Borivali West (I.C. Colony),19.241,72.847,"Domestic Airport Terminal 1, Santacruz",19.098,72.852,06:30:00,07:25:00,"Car,Metro",Highway speed and flyover clearance
+USR_022,Simran Kaur,Graphic Designer,Kandivali West (Mahavir Nagar),19.2105,72.839,RGIT Versova Campus,19.1342,72.8145,08:20:00,09:15:00,"Metro,Bike",Direct student route via Metro 2A
+USR_023,Manish Parekh,Diamond Merchant,Malad East (Pathanwadi),19.18,72.862,"Bharat Diamond Bourse, BKC",19.065,72.868,09:15:00,10:15:00,"Car,Metro",WEH traffic reliability
+USR_024,Deepa Sundaram,Pharmacy Student,Jogeshwari East,19.138,72.854,"SNDT Women's University, Juhu",19.092,72.83,07:45:00,08:30:00,"Bus,Auto",Subway flooding alert essential
+USR_025,Harshvardhan Rane,Fitness Coach,Andheri West (Four Bungalows),19.129,72.825,"Gold's Gym, Kandivali West",19.208,72.838,06:00:00,06:45:00,"Bike,Metro",Early morning reverse-commute

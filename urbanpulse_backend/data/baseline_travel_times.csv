@@ -1,0 +1,19 @@
+route_id,transport_mode,time_of_day_slot,baseline_duration_min,variability_std_min,min_duration_min,max_duration_min,buffer_allowance_min
+RT_USR001_BIKE_WEH,Bike,Morning Peak (07:30-10:30),52.0,7.5,42.0,75.0,15.0
+RT_USR001_BIKE_WEH,Bike,Afternoon Off-Peak (11:00-16:00),38.0,4.0,32.0,48.0,10.0
+RT_USR001_BIKE_WEH,Bike,Evening Peak (17:30-21:00),58.0,8.5,45.0,85.0,20.0
+RT_USR001_BIKE_LINK,Bike,Morning Peak (07:30-10:30),48.0,5.5,40.0,65.0,12.0
+RT_USR001_BIKE_LINK,Bike,Evening Peak (17:30-21:00),54.0,6.5,44.0,72.0,15.0
+RT_USR001_TRAIN,Train,Morning Peak (07:30-10:30),44.0,4.0,38.0,55.0,10.0
+RT_USR001_TRAIN,Train,Afternoon Off-Peak (11:00-16:00),39.0,3.0,34.0,46.0,8.0
+RT_USR001_TRAIN,Train,Evening Peak (17:30-21:00),46.0,5.0,39.0,60.0,12.0
+RT_USR001_METRO_2A,Metro,Morning Peak (07:30-10:30),50.0,2.5,46.0,56.0,6.0
+RT_USR001_METRO_2A,Metro,Afternoon Off-Peak (11:00-16:00),48.0,2.0,45.0,53.0,5.0
+RT_USR001_METRO_2A,Metro,Evening Peak (17:30-21:00),51.0,2.5,47.0,58.0,6.0
+RT_USR001_METRO_7_1,Metro,Morning Peak (07:30-10:30),55.0,3.0,50.0,62.0,8.0
+RT_USR002_METRO,Metro,Morning Peak (07:30-10:30),26.0,2.0,23.0,31.0,5.0
+RT_USR002_CAR_SUBWAY,Car,Morning Peak (07:30-10:30),35.0,6.0,28.0,50.0,12.0
+RT_USR003_METRO,Metro,Morning Peak (07:30-10:30),32.0,2.5,28.0,38.0,6.0
+RT_USR004_TRAIN,Train,Morning Peak (07:30-10:30),42.0,4.0,36.0,52.0,10.0
+RT_USR008_TRAIN,Train,Morning Peak (07:30-10:30),38.0,3.5,33.0,48.0,10.0
+RT_USR022_METRO,Metro,Morning Peak (07:30-10:30),36.0,2.0,33.0,42.0,5.0

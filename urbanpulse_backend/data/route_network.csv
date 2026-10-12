@@ -1,0 +1,42 @@
+route_id,user_id,transport_mode,segment_id,segment_sequence,from_node,to_node,from_lat,from_lon,to_lat,to_lon,infrastructure_type,distance_km,typical_speed_kmh,is_flood_prone
+RT_USR001_BIKE_WEH,USR_001,Bike,SEG_01_01,1,Ashokvan (Borivali E),WEH National Park Junction,19.2372,72.8695,19.2295,72.8625,Arterial Road,1.8,30.0,False
+RT_USR001_BIKE_WEH,USR_001,Bike,SEG_01_02,2,WEH National Park Junction,WEH Pathanwadi Flyover (Malad),19.2295,72.8625,19.1802,72.8582,Highway Flyover,6.2,45.0,False
+RT_USR001_BIKE_WEH,USR_001,Bike,SEG_01_03,3,WEH Pathanwadi Flyover,JVLR Junction WEH (Jogeshwari),19.1802,72.8582,19.1415,72.8562,Highway,4.8,40.0,False
+RT_USR001_BIKE_WEH,USR_001,Bike,SEG_01_04,4,JVLR Junction WEH,SV Road / Jogeshwari West,19.1415,72.8562,19.136,72.842,Arterial Connector,1.9,25.0,True
+RT_USR001_BIKE_WEH,USR_001,Bike,SEG_01_05,5,SV Road Jogeshwari,RGIT Versova Campus,19.136,72.842,19.1342,72.8145,City Arterial,3.4,28.0,False
+RT_USR001_BIKE_LINK,USR_001,Bike,SEG_02_01,1,Ashokvan (Borivali E),Borivali West Link Road,19.2372,72.8695,19.2272,72.8455,Arterial Road,3.2,25.0,False
+RT_USR001_BIKE_LINK,USR_001,Bike,SEG_02_02,2,Borivali West Link Road,Mithchowki Junction Kandivali,19.2272,72.8455,19.2015,72.8375,Major Arterial,3.5,30.0,False
+RT_USR001_BIKE_LINK,USR_001,Bike,SEG_02_03,3,Mithchowki Junction,Inorbit Mall Link Rd (Malad),19.2015,72.8375,19.1782,72.837,Major Arterial,2.8,32.0,False
+RT_USR001_BIKE_LINK,USR_001,Bike,SEG_02_04,4,Inorbit Mall Link Rd,Infinity Mall / DN Nagar,19.1782,72.837,19.1305,72.832,Major Arterial,5.4,30.0,False
+RT_USR001_BIKE_LINK,USR_001,Bike,SEG_02_05,5,DN Nagar Junction,RGIT Versova Campus,19.1305,72.832,19.1342,72.8145,City Road,2.1,25.0,False
+RT_USR001_TRAIN,USR_001,Train,SEG_03_01,1,Ashokvan (Borivali E),Borivali Railway Station (PF 3/4/5),19.2372,72.8695,19.229,72.8569,Auto / Feeder Walk,1.6,18.0,False
+RT_USR001_TRAIN,USR_001,Train,SEG_03_02,2,Borivali Railway Station,Kandivali Railway Station,19.229,72.8569,19.2045,72.8522,Rail Track (WR Slow/Fast),3.1,65.0,False
+RT_USR001_TRAIN,USR_001,Train,SEG_03_03,3,Kandivali Railway Station,Malad Railway Station,19.2045,72.8522,19.1868,72.8488,Rail Track (WR Slow/Fast),2.3,60.0,True
+RT_USR001_TRAIN,USR_001,Train,SEG_03_04,4,Malad Railway Station,Andheri Railway Station,19.1868,72.8488,19.1197,72.8464,Rail Track (WR Slow/Fast),7.8,70.0,False
+RT_USR001_TRAIN,USR_001,Train,SEG_03_05,5,Andheri Railway Station (West),RGIT Versova Campus,19.1197,72.8464,19.1342,72.8145,Auto-rickshaw / BEST 249,3.8,18.0,False
+RT_USR001_METRO_2A,USR_001,Metro,SEG_04_01,1,Ashokvan (Borivali E),Borivali West Metro Station (L2A),19.2372,72.8695,19.2272,72.8455,Auto Feeder Link,3.1,20.0,False
+RT_USR001_METRO_2A,USR_001,Metro,SEG_04_02,2,Borivali West Metro Station,D.N. Nagar Metro Station,19.2272,72.8455,19.1308,72.8322,Elevated Viaduct (Line 2A),11.2,42.0,False
+RT_USR001_METRO_2A,USR_001,Metro,SEG_04_03,3,D.N. Nagar Metro Station (L1 interchange),Versova Metro Station (L1),19.1308,72.8322,19.1315,72.8172,Elevated Viaduct (Line 1),1.6,40.0,False
+RT_USR001_METRO_2A,USR_001,Metro,SEG_04_04,4,Versova Metro Station,RGIT Versova Campus,19.1315,72.8172,19.1342,72.8145,Walk,0.4,4.5,False
+RT_USR001_METRO_7_1,USR_001,Metro,SEG_05_01,1,Ashokvan (Borivali E),National Park Metro Station (L7),19.2372,72.8695,19.2301,72.8631,Walk / Cycle,1.1,8.0,False
+RT_USR001_METRO_7_1,USR_001,Metro,SEG_05_02,2,National Park Metro Station,Gundavali Metro Station (L7),19.2301,72.8631,19.1172,72.8548,Elevated Viaduct (Line 7),12.8,45.0,False
+RT_USR001_METRO_7_1,USR_001,Metro,SEG_05_03,3,Gundavali (FOB Interchange),WEH Station to Versova Metro (L1),19.1172,72.8548,19.1315,72.8172,Elevated Viaduct (Line 1),4.8,38.0,False
+RT_USR001_METRO_7_1,USR_001,Metro,SEG_05_04,4,Versova Metro Station,RGIT Versova Campus,19.1315,72.8172,19.1342,72.8145,Walk,0.4,4.5,False
+RT_USR002_METRO,USR_002,Metro,SEG_06_01,1,Mahavir Nagar Kandivali W,Kandivali West Metro (L2A),19.2105,72.839,19.2085,72.8423,Walk,0.4,4.5,False
+RT_USR002_METRO,USR_002,Metro,SEG_06_02,2,Kandivali West Metro,Pahadi Goregaon Metro,19.2085,72.8423,19.1685,72.8365,Elevated Viaduct (Line 2A),4.9,42.0,False
+RT_USR002_METRO,USR_002,Metro,SEG_06_03,3,Pahadi Goregaon Metro,NESCO IT Park Goregaon E,19.1685,72.8365,19.1555,72.8542,Auto across Goregaon Flyover,2.4,25.0,False
+RT_USR002_CAR_SUBWAY,USR_002,Car,SEG_07_01,1,Mahavir Nagar Kandivali W,Malad Subway,19.2105,72.839,19.1862,72.8462,SV Road Connector,3.2,22.0,True
+RT_USR002_CAR_SUBWAY,USR_002,Car,SEG_07_02,2,Malad Subway,NESCO IT Park Goregaon E,19.1862,72.8462,19.1555,72.8542,WEH Access Slip,3.8,30.0,False
+RT_USR003_METRO,USR_003,Metro,SEG_08_01,1,Gorai 2 Borivali W,Borivali West Metro,19.2355,72.832,19.2272,72.8455,Auto Link,1.8,22.0,False
+RT_USR003_METRO,USR_003,Metro,SEG_08_02,2,Borivali West Metro,Andheri West (DN Nagar),19.2272,72.8455,19.1308,72.8322,Elevated Viaduct (Line 2A),11.2,42.0,False
+RT_USR003_METRO,USR_003,Metro,SEG_08_03,3,DN Nagar Metro,Kokilaben Hospital,19.1308,72.8322,19.1312,72.8252,Auto / Walk,0.9,15.0,False
+RT_USR004_TRAIN,USR_004,Train,SEG_09_01,1,Dahisar East,Dahisar Railway Station,19.255,72.863,19.2501,72.8593,Walk,0.7,4.5,False
+RT_USR004_TRAIN,USR_004,Train,SEG_09_02,2,Dahisar Railway Station,Andheri Railway Station,19.2501,72.8593,19.1197,72.8464,Rail Track (WR Fast),15.2,72.0,True
+RT_USR004_TRAIN,USR_004,Train,SEG_09_03,3,Andheri Railway Station,Bhavan's College,19.1197,72.8464,19.1245,72.8355,Auto / Walk,1.4,18.0,False
+RT_USR008_TRAIN,USR_008,Train,SEG_10_01,1,Charkop Sector 8,Kandivali Station West,19.215,72.825,19.2045,72.8522,BEST Bus 224,3.2,18.0,False
+RT_USR008_TRAIN,USR_008,Train,SEG_10_02,2,Kandivali Railway Station,Vile Parle Railway Station,19.2045,72.8522,19.0999,72.8438,Rail Track (WR Slow),11.8,55.0,True
+RT_USR008_TRAIN,USR_008,Train,SEG_10_03,3,Vile Parle Station West,Mithibai College,19.0999,72.8438,19.1028,72.8372,Walk,0.6,4.5,False
+RT_USR022_METRO,USR_022,Metro,SEG_11_01,1,Mahavir Nagar Kandivali W,Kandivali West Metro (L2A),19.2105,72.839,19.2085,72.8423,Walk,0.4,4.5,False
+RT_USR022_METRO,USR_022,Metro,SEG_11_02,2,Kandivali West Metro,D.N. Nagar Metro (L2A),19.2085,72.8423,19.1308,72.8322,Elevated Viaduct (Line 2A),8.9,42.0,False
+RT_USR022_METRO,USR_022,Metro,SEG_11_03,3,D.N. Nagar Metro,Versova Metro Station (L1),19.1308,72.8322,19.1315,72.8172,Elevated Viaduct (Line 1),1.6,40.0,False
+RT_USR022_METRO,USR_022,Metro,SEG_11_04,4,Versova Metro,RGIT Versova Campus,19.1315,72.8172,19.1342,72.8145,Walk,0.4,4.5,False
